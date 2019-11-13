@@ -7,11 +7,11 @@
 	}
 @font-face {
 	font-family: "sdneo_r";
-	src: url("fonts/sdneo_rs.eot");
-	src: url("fonts/sdneo_rs.woff") format("woff")
-	url("fonts/sdneo_rs.otf") format("opentype"),
-	url("fonts/sdneo_rs.svg") format("svg"),
-	url("fonts/sdneo_rs.woff2") format("woff");
+	src: url("fonts/sdneo_r.eot");
+	src: url("fonts/sdneo_r.woff") format("woff"),
+	url("fonts/sdneo_r.otf") format("opentype"),
+	url("fonts/sdneo_r.svg") format("svg"),
+	url("fonts/sdneo_r.woff2") format("woff2");
 	}
 *{
 	font-family: 'sdneo_r', sans-serif;
